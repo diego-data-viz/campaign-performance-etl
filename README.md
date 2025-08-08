@@ -37,11 +37,6 @@ campaign-performance-etl/
 ├── outputs/
 │ └── channel_summary.csv
 └── README.md
-
-yaml
-Copy
-Edit
-
 ---
 
 ## ✍️ Author
